@@ -1,0 +1,23 @@
+{
+  "name": "pidan",
+  "version": "0.0.1",
+  "description": "Full site for Pi Dan Noodle House, Oakland, Ca.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/akyndofgreanishlite/pidan.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/akyndofgreanishlite/pidan/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-sass": "~0.5.0",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
